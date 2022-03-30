@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo 12\\Grupo 12\\Grupo 12.csproj": {}
+    "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo12\\Grupo 12\\Grupo 12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo 12\\Grupo 12\\Grupo 12.csproj": {
+    "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo12\\Grupo 12\\Grupo 12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo 12\\Grupo 12\\Grupo 12.csproj",
+        "projectUniqueName": "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo12\\Grupo 12\\Grupo 12.csproj",
         "projectName": "Grupo 12",
-        "projectPath": "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo 12\\Grupo 12\\Grupo 12.csproj",
+        "projectPath": "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo12\\Grupo 12\\Grupo 12.csproj",
         "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo 12\\Grupo 12\\obj\\",
+        "outputPath": "C:\\Users\\luisj\\OneDrive\\Documentos\\Grupo12\\Grupo 12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

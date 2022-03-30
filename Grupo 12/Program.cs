@@ -7,6 +7,7 @@ namespace Grupo_12
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("CONFLICTO TIPO 1");
         }
     }
 }
