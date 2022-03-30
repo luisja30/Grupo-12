@@ -12,6 +12,8 @@ namespace Grupo_12
 
             Console.WriteLine("hi mom!");
 
+            Console.WriteLine("hi dad!");
+
         }
     }
 }
